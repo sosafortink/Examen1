@@ -1,0 +1,12 @@
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\bin\Debug\KarlaSosa.exe.config
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\bin\Debug\KarlaSosa.exe
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\bin\Debug\KarlaSosa.pdb
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form2.resources
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form3.resources
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\Karlasosa.Menuu.resources
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\Karlasosa.Properties.Resources.resources
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\KarlaSosa.csproj.GenerateResource.cache
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\KarlaSosa.csproj.CoreCompileInputs.cache
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\KarlaSosa.exe
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\KarlaSosa.pdb
