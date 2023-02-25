@@ -1,0 +1,12 @@
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form2.resources
+D:\Dinero con progra\ayuda eb c#\Karla Sosa\Examen-PrimerParcial\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form3.resources
